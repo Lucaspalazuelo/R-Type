@@ -1,6 +1,3 @@
-[![Engine Compil](https://github.com/EpitechPromo2026/B-CPP-500-LYN-5-1-rtype-keziah.picq/actions/workflows/engine_compilation.yml/badge.svg)](https://github.com/EpitechPromo2026/B-CPP-500-LYN-5-1-rtype-keziah.picq/actions/workflows/engine_compilation.yml)
-[![Server Compil](https://github.com/EpitechPromo2026/B-CPP-500-LYN-5-1-rtype-keziah.picq/actions/workflows/server_compilation.yml/badge.svg)](https://github.com/EpitechPromo2026/B-CPP-500-LYN-5-1-rtype-keziah.picq/actions/workflows/server_compilation.yml)
-[![Client Compil](https://github.com/EpitechPromo2026/B-CPP-500-LYN-5-1-rtype-keziah.picq/actions/workflows/client_compilation.yml/badge.svg)](https://github.com/EpitechPromo2026/B-CPP-500-LYN-5-1-rtype-keziah.picq/actions/workflows/client_compilation.yml)
 # R-Type Project
 
 `R-Type` is a Epitech third year project in C++ focused on developing a custom game engine(ecs) and a networked version of the classic game "R-Type." The primary goal is to create a multi-threaded server and a graphical client using advanced C++ techniques. The project is divided into two main phases:
